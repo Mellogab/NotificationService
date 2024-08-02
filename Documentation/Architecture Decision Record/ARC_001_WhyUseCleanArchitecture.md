@@ -1,7 +1,7 @@
 # Title: Using Clean Architecture for Notification Service
 
 ## Context
-Our project aims to develop an API to make bank notification between customer accounts. This API is critical for the business, as it needs to guarantee the integrity of financial transactions, security of customer data and high availability.
+Our project aims to develop an API to make bank notification between customer accounts. This API is critical for the business, as it needs to guarantee the integrity of transactions, security of customer data and high availability.
 
 ## Decision
 We chose to implement Clean Architecture for this project due to the following considerations:

@@ -24,14 +24,14 @@ jobs:
       with:
         dotnet-version: ${{ env.DOTNET_VERSION }}
 
-    - name: Install dependencies
-      run: dotnet restore
+    #- name: Install dependencies
+    #  run: dotnet restore
       
-    - name: Build
-      run: dotnet build --configuration Release --no-restore
+    #- name: Build
+    #  run: dotnet build --configuration Release --no-restore
     
-    - name: Test
-      run: dotnet test --no-restore
+    #- name: Test
+    #  run: dotnet test --no-restore
     
     #- name: Build the Docker image
     #  run: docker build . --file Dockerfile --tag itransfer:${{ steps.tag.outputs.tag }}

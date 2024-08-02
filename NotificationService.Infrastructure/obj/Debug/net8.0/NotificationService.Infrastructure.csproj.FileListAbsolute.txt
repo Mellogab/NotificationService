@@ -1,0 +1,15 @@
+C:\Users\mello\source\repos\NotificationService.Infrastructure\obj\Debug\net8.0\NotificationService.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\mello\source\repos\NotificationService.Infrastructure\obj\Debug\net8.0\NotificationService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mello\source\repos\NotificationService.Infrastructure\obj\Debug\net8.0\NotificationService.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\mello\source\repos\NotificationService.Infrastructure\obj\Debug\net8.0\NotificationService.Infrastructure.AssemblyInfo.cs
+C:\Users\mello\source\repos\NotificationService.Infrastructure\obj\Debug\net8.0\NotificationService.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\mello\source\repos\NotificationService.Infrastructure\bin\Debug\net8.0\NotificationService.Infrastructure.deps.json
+C:\Users\mello\source\repos\NotificationService.Infrastructure\bin\Debug\net8.0\NotificationService.Infrastructure.dll
+C:\Users\mello\source\repos\NotificationService.Infrastructure\bin\Debug\net8.0\NotificationService.Infrastructure.pdb
+C:\Users\mello\source\repos\NotificationService.Infrastructure\bin\Debug\net8.0\NotificationService.Core.dll
+C:\Users\mello\source\repos\NotificationService.Infrastructure\bin\Debug\net8.0\NotificationService.Core.pdb
+C:\Users\mello\source\repos\NotificationService.Infrastructure\obj\Debug\net8.0\Notifica.C5696791.Up2Date
+C:\Users\mello\source\repos\NotificationService.Infrastructure\obj\Debug\net8.0\NotificationService.Infrastructure.dll
+C:\Users\mello\source\repos\NotificationService.Infrastructure\obj\Debug\net8.0\refint\NotificationService.Infrastructure.dll
+C:\Users\mello\source\repos\NotificationService.Infrastructure\obj\Debug\net8.0\NotificationService.Infrastructure.pdb
+C:\Users\mello\source\repos\NotificationService.Infrastructure\obj\Debug\net8.0\ref\NotificationService.Infrastructure.dll

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "XFYCvXaDSFrP8ykJJdXUg27yW5VvWSvUlUepWl7Q65LVDk9cjmeq2GKuOrtL6zj+MI3jULjcKpKLt1nj5kcnfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mello\\source\\repos\\NotificationService.Core\\NotificationService.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mello\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\mello\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\mello\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\mello\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\mello\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

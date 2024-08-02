@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "+02Ammfkh1564loayCXfrvo01xx6KtQv/0eAivwV97gOM01Hqn2WX5KkfqzZQs8M6isE+C6HdGMeyDq+Q3QUGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mello\\source\\repos\\NotificationService.Infrastructure\\NotificationService.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mello\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\mello\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\mello\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.0\\microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
+    "C:\\Users\\mello\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\mello\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\mello\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\mello\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

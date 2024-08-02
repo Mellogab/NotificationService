@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_NotificationService", "_NotificationService.csproj", "{DA7976E8-6FE9-4E83-BE85-300609A6F81A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_NotificationService", "_NotificationService\_NotificationService.csproj", "{DA7976E8-6FE9-4E83-BE85-300609A6F81A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NotificationService.Core", "..\NotificationService.Core\NotificationService.Core.csproj", "{D2C3EEE2-5165-4591-83FC-54D16DB4A42E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NotificationService.Core", "NotificationService.Core\NotificationService.Core.csproj", "{D2C3EEE2-5165-4591-83FC-54D16DB4A42E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NotificationService.Infrastructure", "..\NotificationService.Infrastructure\NotificationService.Infrastructure.csproj", "{CA46D142-09F2-4471-8D8E-B579793784B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NotificationService.Infrastructure", "NotificationService.Infrastructure\NotificationService.Infrastructure.csproj", "{CA46D142-09F2-4471-8D8E-B579793784B3}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NotificationService.Test", "..\NotificationService.Test\NotificationService.Test.csproj", "{FDE79255-9C91-45ED-85AB-AD5691EA3920}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NotificationService.Test", "NotificationService.Test\NotificationService.Test.csproj", "{FDE79255-9C91-45ED-85AB-AD5691EA3920}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

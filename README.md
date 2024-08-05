@@ -68,6 +68,7 @@ The infrastructure project manages database access and dependency configurations
 
 ## Evolution points:
 
+- Add information / errors logs to print on console ans generate the file on directory (the best option is send the logs for some plataform like new relic or to kinesis)
 - CI/CD flow in github action.
 - Dockfile configured and being validated in the CI flow of github actions.
 - Performance tests (newman + postmans).
